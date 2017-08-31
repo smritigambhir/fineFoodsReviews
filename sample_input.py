@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Aug 05 13:59:39 2017
-
-@author: smgambhi
-"""
-
 import random
 import os
 import json
