@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  9 22:04:42 2017
 
-@author: smgambhi
-"""
 import json
 import operator
 
