@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug 22 00:54:45 2017
-
-@author: smgambhi
-"""
-
 from nltk.stem.porter import PorterStemmer
 from nltk.tokenize import word_tokenize
 
